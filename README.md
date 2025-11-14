@@ -1,5 +1,8 @@
 ## email playground with react email from the team @ Resend
 
+## feedback component
+https://react.email/components/feedback
+
 npm install
 
 then cd into react-email-starter
