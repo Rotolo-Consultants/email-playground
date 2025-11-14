@@ -9,11 +9,13 @@ npm install again...(i fucked up the project structure)
 feel free to add whatever components from https://react.email/components/
 
 
-you can use tailwind (just wrap the component with <Tailwind>  </Tailwind>
+you can use tailwind (just wrap the component with ``<Tailwind>  </Tailwind>``
 
 or you can use CSS and just apply it to the components 
+```
+<SomeComponent styles={{cssVariable}}>
+
 const cssVariable = {
   'height: '100px', 
   }
-
-<SomeComponent styles={{cssVariable}}> 
+```
