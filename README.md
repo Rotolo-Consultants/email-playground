@@ -1,5 +1,12 @@
 ## email playground with react email from the team @ Resend
 
+## contributing
+just push to main 😈🤝
+i've been making tweaks to the files in components/ 
+so if u use one just make a duplicate version so my changes don't fuck up anything ☠️
+only component that's about ready is the emails/take-two.tsx
+
+
 ## feedback component
 https://react.email/components/feedback
 
